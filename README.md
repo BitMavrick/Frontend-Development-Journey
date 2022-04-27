@@ -6,7 +6,9 @@ Here I am recording my frontend development progress overtime. Each day represen
 
 > Minified CSS File
 
-> UI Design (Adobe XD)
+> JavaScript (May or May Not)
+
+> UI Design (Adobe XD) (May or May Not)
 
 > Screenshot of the page
 
