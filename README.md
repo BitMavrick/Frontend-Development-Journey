@@ -1,3 +1,18 @@
+# My frontend development journey
+
+Here I am recording my frontend development progress overtime. Each day represents a complete task.
+### Contents,
+> Main HTML file
+
+> Minified CSS File
+
+> UI Design (Adobe XD)
+
+> Screenshot of the page
+
+
+<br>
+
 
 # Gallery,
 
@@ -25,6 +40,21 @@
 </kbd>
 &nbsp;
 </div>
+
+
+
+<br>
+<br>
+<br>
+
+
+## Contributing
+
+Feel free to fork this project and customize with your personal system. If you implement any nice features or improvements I'd really appreciate if you could open a PR to this project ;)
+
+## License
+
+MIT
 
 
 <br>
