@@ -29,9 +29,9 @@ Here I am recording my frontend development progress overtime. Each day represen
 &nbsp;
 
 <kbd >
-<img align="center" src="https://raw.githubusercontent.com/mehedi705/Frontend-Developmet-Journey/main/Day%201/UI/Landing%20Page%201.jpg" alt="drawing" width="250"/>
+<img align="center" src="https://raw.githubusercontent.com/mehedi705/Frontend-Developmet-Journey/main/Day%202/UI/CSS%20Car%20Animation.png" alt="drawing" width="250"/>
     <br>
-    <p align="center"><br>Day 2: CSS Animation</p>
+    <p align="center"><br>Day 2: CSS Car Animation</p>
 </kbd>
 &nbsp;
 
