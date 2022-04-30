@@ -36,7 +36,7 @@ Here I am recording my frontend development progress overtime. Each day represen
 &nbsp;
 
 <kbd >
-<img align="center" src="https://raw.githubusercontent.com/mehedi705/Frontend-Development-Journey/main/Day%203/UI/Desktop_view.png" alt="drawing" width="250"/>
+<img align="center" src="https://raw.githubusercontent.com/mehedi705/Frontend-Development-Journey/main/Day%203/UI/Desktop.png" alt="drawing" width="250"/>
     <br>
     <p align="center"><br>Day 3: Landing Page 2</p>
 </kbd>
