@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    height: 100%;
+}
+
+body{
+    margin-left: 146px;
+    margin-right: 146px;
+    font-family: 'Inter', sans-serif;
+    background: #F3EDE5;
+}
+
+a{
+    text-decoration: none;
+    color: #7A7979;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+header li{
+    display: inline-block;
+}
+
+header li a{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.logo{
+    margin-top: 3px;
+}
+
+header nav li{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.sub-nav li{
+    margin-top: 10px;
+}
+
+header nav li a:hover{
+    background-color: lightgray;
+    border-radius: 4px;
+}
+
+.button a{
+    background-color: #133416;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.signin a{
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.signin a:hover{
+    background-color: lightgray;
+    border-radius: 4px;
+}
+
+.button a{
+    color: white;
+}
+
+.button a:hover{
+    background-color: rgb(9, 130, 9);
+}
+
+.hero-section{
+    margin-top: 50px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 50px;
+    grid-template-areas: 
+    "left right";
+}
+
+.hero-title{
+    grid-area: left;
+    background-color: green;
+}
+
+.hero-image{
+    grid-area: right;
+    background-color: red;
+    
+}
+
+.hero-image img{
+    max-width: 80%;
+    height: auto;
+    margin-left: 80px;
+}
