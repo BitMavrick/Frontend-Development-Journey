@@ -8,8 +8,8 @@
 }
 
 body{
-    margin-left: 146px;
-    margin-right: 146px;
+    margin-left: 10%;
+    margin-right: 10%;
     font-family: 'Inter', sans-serif;
     background: #F3EDE5;
 }
@@ -78,7 +78,6 @@ header nav li a:hover{
 
 .hero-section{
     margin-top: 50px;
-    height: 500px;
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-gap: 50px;
@@ -88,17 +87,70 @@ header nav li a:hover{
 
 .hero-title{
     grid-area: left;
-    background-color: green;
 }
 
 .hero-image{
     grid-area: right;
-    background-color: red;
-    
 }
 
 .hero-image img{
-    max-width: 80%;
+    max-width: 90%;
     height: auto;
-    margin-left: 80px;
+    margin-left: 40px;
+}
+
+.hero-title h1{
+    margin-top: 50px;
+    font-size: 4em;
+}
+
+.colored{
+    color: #F7B300;
+}
+
+.hero-title p{
+    margin-top: 20px;
+    color: #81807F;
+}
+
+.hero-button a{
+    color: white;
+    padding: 10px;
+    background-color: #133416;
+    border-radius: 4px;
+}
+
+.hero-button a:hover{
+    background-color: rgb(9, 130, 9);
+}
+
+.rating{
+    display: flex;
+}
+
+.logos{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.logos img{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.footer{
+    margin-top: 5%;
+}
+
+.footer  p{
+    text-align: center;
+    color: #81807F;
+}
+
+.companies{
+    margin-top: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+    display: flex;
+    justify-content: space-between;
 }
