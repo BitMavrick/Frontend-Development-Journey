@@ -8,7 +8,7 @@ Here I am recording my frontend development progress overtime. Each day represen
 
 > JavaScript (May or May Not)
 
-> UI Design (Adobe XD) (May or May Not)
+> UI Design (Adobe XD or Figma) (May or May Not)
 
 > Screenshot of the page
 
