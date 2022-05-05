@@ -43,6 +43,17 @@ Here I am recording my frontend development progress overtime. Each day represen
 &nbsp;
 </div>
 
+<br>
+<div align="center">
+<kbd >
+<img align="center" src="https://raw.githubusercontent.com/mehedi705/Frontend-Development-Journey/main/Day%204/UI/Screenshot.png" alt="drawing" width="250"/>
+    <br>
+    <p align="center"><br>Day 4: Complete Webpage 1</p>
+</kbd>
+&nbsp;
+
+</div>
+
 
 
 <br>
