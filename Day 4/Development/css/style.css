@@ -72,6 +72,7 @@ nav .btn:hover{
 }
 
 .hero h1{
+    width: 800px;
     font-family: Prata, sans-serif;
     color: white;
     font-weight: normal;
@@ -79,6 +80,7 @@ nav .btn:hover{
 }
 
 .hero h3{
+    width: 700px;
     margin-top: 10px;
     color: #ADADAD;
     font-weight: normal;
@@ -213,4 +215,65 @@ nav .btn:hover{
 
 .social-links a{
     margin-left: 15px;
+}
+
+@media only screen and (max-width: 1120px) {
+    .hero h1, .hero h3{
+        width: 100%;
+        text-align: center;
+    }
+
+    .showcase{
+        display: grid;
+        grid-template-columns: 33% 34% 33%;
+    }
+
+    .showcase img{
+        margin: 20px;
+        justify-self: center;
+    }
+
+    .display-wrapper{
+        display: grid;
+        justify-content: space-around;
+    }
+
+    .display1{
+        margin-bottom: 10%;
+    }
+
+    .middle{
+        display: grid;
+        justify-content: space-around;
+    }
+    
+    .last-section{
+        display: grid;
+        justify-content: space-around;
+    }
+
+
+
+
+
+
+
+
+    
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+    
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+
 }
