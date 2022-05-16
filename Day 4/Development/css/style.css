@@ -1,8 +1,216 @@
-.prata{
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.first-section{
+    background-color: #0A0A0B;
+    margin: 0;
+    padding: 0;
+    padding-top: 30px;
+    padding-bottom: 4%;
+}
+
+.wrapper{
+    max-width: 1300px;
+    margin: auto;
+}
+
+nav{
+    padding: 0px 10px 0px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav h3{
+    padding: 10px 20px 10px 0px;   
+}
+
+nav h3 a{
+    text-decoration: none;
+    color: white;
+    font-weight: normal;
     font-family: Prata, sans-serif;
 }
 
-.inter{
+.options{
+    display: block;
+    padding: 12px 50px 5px 20px;
+}
+
+.options a{
     font-family: Inter, sans-serif;
+    text-decoration: none;
+    margin-left: 3px;
+    margin-right: 3px;
+    color: #ADADAD;
+    padding: 10px 20px 10px 20px;
+}
+
+.options a:hover{
+    background-color: rgb(90, 80, 80);
+    color: white;
+}
+
+.btn{
+    font-family: Prata, sans-serif;
+    text-decoration: none;
+    color: black;
+    background-color: #FBE850;
+    padding: 12px 20px 5px 20px;
+}
+
+nav .btn:hover{
+    background-color: #ffe100;;
+}
+
+.hero{
+    margin-left: 10px;
+    margin-top: 6%;
+}
+
+.hero h1{
+    font-family: Prata, sans-serif;
+    color: white;
     font-weight: normal;
+    font-size: 3.9rem;
+}
+
+.hero h3{
+    margin-top: 10px;
+    color: #ADADAD;
+    font-weight: normal;
+    font-family: Inter, sans-serif;
+}
+
+.showcase{
+    margin-top: 6%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+
+.display-wrapper{
+    margin-top: 6%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+
+.display1 .heading h1, .display2 .heading h1{
+    font-family: Prata, sans-serif;
+    color: white;
+    font-weight: normal;
+}
+
+.heading{
+    margin-top: 15px;
+    display: flex;
+}
+
+.arrow{
+    margin: 15px;
+}
+
+.display-wrapper p{
+    font-family: Inter, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 1px;
+    color: #ADADAD;
+}
+
+.middle-wrapper{
+    margin-top: 6%;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+}
+
+.middle-placement{
+    width: 100%;
+    background-color: #2E3038;
+}
+
+.middle{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 10px 5% 10px;
+    
+}
+
+.middle h1{
+    color: white;
+    font-family: Prata, sans-serif;
+    font-weight: normal;
+}
+
+.middle p{
+    color: #848484;
+    font-family: Inter, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+
+.last-section{
+    width: 100%;
+    background-color: #0A0A0B;
+}
+
+.summery{
+    padding: 6% 10px 6% 10px;
+}
+
+.summery h1{
+    color: white;
+    font-family: Prata, sans-serif;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.summery p{
+    color: #848484;
+    font-family: Inter, sans-serif;
+    letter-spacing: 1.6;
+    padding-bottom: 10px;
+}
+
+.btn2{
+    font-family: Prata, sans-serif;
+    text-decoration: none;
+    color: black;
+    background-color: #FBE850;
+    padding: 10px 20px 10px 20px;
+}
+
+.btn2:hover{
+    background-color: #ffe100;;
+}
+
+
+.footer-section{
+    width: 100%;
+    background-color:#2E3038;
+}
+
+.footer-elements{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer-elements a{
+    font-family: Prata, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.social-links a{
+    margin-left: 15px;
 }
